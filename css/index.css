@@ -1,9 +1,4 @@
 html,body { margin:0 auto; }
-.url{
-    text-decoration: none;
-    color: #33a3dc;
-    margin-left: 150px;
-}
 #alert{
     width: 100%;
     height: 50px;
